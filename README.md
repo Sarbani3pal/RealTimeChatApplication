@@ -65,15 +65,18 @@ For any questions or inquiries, please email us at palsarbani2002@gmail.com
 
 Enjoy chatting in real-time!
 
+WELCOME PAGE
+
+![Screenshot (160)](https://github.com/Sarbani3pal/RealTimeChatApplication/assets/106859451/b4721d3d-429a-4fa3-bd48-a5b411218284)
+
 PERSONAL CHAT
+
 ![Screenshot (156)](https://github.com/Sarbani3pal/RealTimeChatApplication/assets/106859451/c97b4cf9-b679-492f-a3de-b5814596042a)
 
 PERSONAL CHAT
+
 ![Screenshot (158)](https://github.com/Sarbani3pal/RealTimeChatApplication/assets/106859451/5041fa5c-7f70-4fee-8cc2-c535d5a5e1d4)
 
-WELCOME PAGE
-![Screenshot (160)](https://github.com/Sarbani3pal/RealTimeChatApplication/assets/106859451/b4721d3d-429a-4fa3-bd48-a5b411218284)
-
-
 GROUP CHAT
+
 ![Screenshot (155)](https://github.com/Sarbani3pal/RealTimeChatApplication/assets/106859451/8084b054-4fa4-421a-ab24-f80e4c118204)
