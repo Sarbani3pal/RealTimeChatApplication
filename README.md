@@ -75,7 +75,7 @@ PERSONAL CHAT
 
 PERSONAL CHAT
 
-![Screenshot (158)](https://github.com/Sarbani3pal/RealTimeChatApplication/assets/106859451/5041fa5c-7f70-4fee-8cc2-c535d5a5e1d4)
+![Screenshot (157)](https://github.com/Sarbani3pal/RealTimeChatApplication/assets/106859451/f2c81f82-073f-41ac-b78c-348ff466c688)
 
 GROUP CHAT
 
